@@ -25,7 +25,7 @@ README.md      # Project documentation
 ### 1. 	Clone the repository
 
 ```
-git clone https://github.com/yourusername/python-cli-calculator.git
+git clone https://github.com/imranraza-AI/Calculator_project_1.git
 cd python-cli-calculator
 ```
 ### 2. 	Run the script
